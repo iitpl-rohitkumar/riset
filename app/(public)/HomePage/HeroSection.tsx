@@ -5,7 +5,6 @@ import { ArrowRight, Star } from "lucide-react";
 
 import Link from "next/link";
 import { DashboardShowcase } from "@/app/components/DashboardShowcase";
-
 export function Hero() {
   const [scrollY, setScrollY] = useState(0);
 
